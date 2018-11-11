@@ -1,0 +1,19 @@
+{
+  "name": "simple-nodejs-hbu",
+  "version": "1.0.0",
+  "description": "Task 1 HBU",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fybwid/simple-nodejs-hbu.git"
+  },
+  "author": "fybwid@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fybwid/simple-nodejs-hbu/issues"
+  },
+  "homepage": "https://github.com/fybwid/simple-nodejs-hbu#readme"
+}
