@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/fybwid/simple-nodejs-hbu#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4"
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
   }
 }
